@@ -8,7 +8,6 @@ Son Sıcaklık: 31.06 °C
 Ortalama Risk Skoru: 0.281  
 Durum: GÜVENLİ ÇALIŞMA  
 
----
 
 === HARMONİKLİ YÜK ===
 RMS Akım: 6.37 A  
@@ -18,7 +17,6 @@ Son Sıcaklık: 41.44 °C
 Ortalama Risk Skoru: 0.510  
 Durum: DİKKAT: Risk Artıyor  
 
----
 
 === AŞIRI YÜK ===
 RMS Akım: 11.33 A  
