@@ -62,7 +62,7 @@ How to Run
 
 - Running the Python Simulation
 - Clone the repository:
-git clone https://github.com/your-username/electrical-cable-fire-risk-analysis.git
+git clone https://github.com/elifttnc/electrical-cable-fire-risk-analysis.git
 
 - Navigate to the Python directory:
 cd electrical-cable-fire-risk-analysis/python
